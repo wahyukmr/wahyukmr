@@ -18,7 +18,6 @@ Hello Devs 👋<br><br>I am Wahyu Komarudin Hidayah. I am a stand-alone develope
 ---
 [![](https://visitcount.itsvg.in/api?id=wahyukmr&icon=2&color=0)](https://visitcount.itsvg.in)
 
----
 📧 Email: wahyukh069@gmail.com 
 
   ## 💰 You can help me by Donating
