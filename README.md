@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello Devs 👋<br><br>I am Wahyu Komarudin Hidayah. I am a stand-alone developer who's fun to have an experimental projects for development and sharing.<br><br>✅ I’m currently working freelance ✨Frontend Web Developer✨.<br>✅ I’m currently learning about Python,Javascript, and latest framework mostly people used<br>✅ I’m looking to collaborate on an open-source project based on fun and knowledge-sharing<br>✅ I’m looking for help from people who has best experience in using Javascript programming<br>✅ Ask me about life goals, Technology development, and books!
+Hello Devs 👋<br><br>I am Wahyu Komarudin Hidayah. I am a stand-alone developer who's fun to have an experimental projects for development and sharing.<br><br>✅ I’m currently working freelance ✨Frontend Web Developer✨.<br>✅ I’m currently learning about Python,Javascript, and latest framework mostly people used<br>✅ I’m looking to collaborate on an open-source project based on fun and knowledge-sharing<br>✅ I’m looking for help from people who has best experience in using Javascript programming<br>✅ Ask me about life goals, Technology development, and books!<br>📧 Email: wahyukh069@gmail.com 
 
 
 ## 🌐 Socials:
@@ -15,7 +15,6 @@ Hello Devs 👋<br><br>I am Wahyu Komarudin Hidayah. I am a stand-alone develope
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 📧 Email: wahyukh069@gmail.com 
 ---
 [![](https://visitcount.itsvg.in/api?id=wahyukmr&icon=2&color=0)](https://visitcount.itsvg.in)
 
