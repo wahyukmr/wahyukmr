@@ -2,6 +2,8 @@
 Hello Devs 👋<br><br>I am Wahyu Komarudin Hidayah. I am a stand-alone developer who's fun to have an experimental projects for development and sharing.<br><br>✅ I’m currently working freelance ✨Frontend Web Developer✨.<br>✅ I’m currently learning about Python,Javascript, and latest framework mostly people used<br>✅ I’m looking to collaborate on an open-source project based on fun and knowledge-sharing<br>✅ I’m looking for help from people who has best experience in using Javascript programming<br>✅ Ask me about life goals, Technology development, and books!<br>📧 Email: wahyukh069@gmail.com 
 
 
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wahyukh/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@wahyukmr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@wahyukh6) 
 
