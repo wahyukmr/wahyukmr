@@ -14,7 +14,7 @@
 
 Hello Devs 👋<br><br>I am Wahyu Komarudin Hidayah. I'm a stand-alone developer who's fun to have an experimental projects for development and sharing.<br><br>✅ I’m currently working freelance ✨Frontend Web Developer✨.<br>✅ I’m currently learning about Python,Javascript, and latest framework mostly people used<br>✅ I’m looking to collaborate on an open-source project based on fun and knowledge-sharing<br>✅ I’m looking for help from people who has best experience in using Javascript programming<br>✅ Ask me about life goals, Technology development, and books!<br>📧 Email: wahyukh069@gmail.com
 
-</br></br></br>
+</br></br>
 
 <h2 align= "center">💻 Tech Stack:</h2>
 
@@ -26,7 +26,7 @@ Hello Devs 👋<br><br>I am Wahyu Komarudin Hidayah. I'm a stand-alone developer
 
 </div>
 
-</br></br></br>
+</br></br>
 
 ## 📊 GitHub Stats:
 
@@ -36,12 +36,7 @@ Hello Devs 👋<br><br>I am Wahyu Komarudin Hidayah. I'm a stand-alone developer
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wahyukmr&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyukmr&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=wahyukmr&icon=5&color=6)](https://visitcount.itsvg.in)
-
-
-</br></br></br>
+</br></br>
   
 <div align="center" >
     
