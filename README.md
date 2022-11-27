@@ -32,9 +32,12 @@ Hello Devs 👋<br><br>I am Wahyu Komarudin Hidayah. I'm a stand-alone developer
 <br />
 <p align="center">
   <img width="400" src="https://github.com/wahyukmr/Image-GetWeb/blob/main/Black%20and%20Green%20Snake%20Halloween%20Sale%20Laptop%20Mockup%20Facebook%20Post%20.png" />
-  <br />
+  <img width="400" src="https://github.com/wahyukmr/image-javascript-programming/blob/main/best%20practice%20with%20JavaScript%20(1).png" />
  <a href="https://github.com/wahyukmr/GetWeb-WebApp">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=wahyukmr&repo=GetWeb-WebApp&theme=tokyonight" />
+ </a>
+ <a href="https://github.com/wahyukmr/JavaScript-Programming-Language">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=wahyukmr&repo=JavaScript-Programming-Language&theme=tokyonight" />
  </a>
 </p>
 
