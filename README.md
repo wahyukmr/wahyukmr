@@ -36,7 +36,9 @@ Hello Devs 👋<br><br>I am Wahyu Komarudin Hidayah. I'm a stand-alone developer
  <a href="https://github.com/wahyukmr/GetWeb-WebApp">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=wahyukmr&repo=GetWeb-WebApp&theme=tokyonight" />
  </a>
-
+<a href="https://github.com/wahyukmr/JavaScript-Programming-Language">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=wahyukmr&repo=JavaScript-Programming-Language&theme=tokyonight" />
+ </a>
 </p>
 
 <br />
