@@ -14,7 +14,7 @@
 
 Hello Devs 👋<br><br>I am Wahyu Komarudin Hidayah. I'm a stand-alone developer who's fun to have an experimental projects for development and sharing.<br><br>✅ I’m currently working freelance ✨Frontend Web Developer✨.<br>✅ I’m currently learning about Python,Javascript, and latest framework mostly people used<br>✅ I’m looking to collaborate on an open-source project based on fun and knowledge-sharing<br>✅ I’m looking for help from people who has best experience in using Javascript programming<br>✅ Ask me about life goals, Technology development, and books!<br>📧 Email: wahyukh069@gmail.com
 
-</br></br>
+</br>
 
 <h2 align= "center">💻 Tech Stack:</h2>
 
@@ -26,22 +26,18 @@ Hello Devs 👋<br><br>I am Wahyu Komarudin Hidayah. I'm a stand-alone developer
 
 </div>
 
-</br></br>
+</br>
 
 <h2 align="center">💻 My favorite projects:</h2>
 <br />
 <p align="center">
   <img width="400" src="https://github.com/wahyukmr/Image-GetWeb/blob/main/Black%20and%20Green%20Snake%20Halloween%20Sale%20Laptop%20Mockup%20Facebook%20Post%20.png" />
-  <img width="400" src="https://github.com/wahyukmr/image-javascript-programming/blob/main/best%20practice%20with%20JavaScript%20(1).png" />
+  <br />
  <a href="https://github.com/wahyukmr/GetWeb-WebApp">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=wahyukmr&repo=GetWeb-WebApp&theme=tokyonight" />
  </a>
-<a href="https://github.com/wahyukmr/JavaScript-Programming-Language">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=wahyukmr&repo=JavaScript-Programming-Language&theme=tokyonight" />
- </a>
 </p>
 
-<br />
 <br />
 
 ## 📊 GitHub Stats:
@@ -52,7 +48,7 @@ Hello Devs 👋<br><br>I am Wahyu Komarudin Hidayah. I'm a stand-alone developer
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wahyukmr&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyukmr&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</br></br>
+</br>
   
 <div align="center" >
     
