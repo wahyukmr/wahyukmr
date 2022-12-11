@@ -12,7 +12,7 @@
 
 <img src="https://media.giphy.com/media/z9vxfIMzxbTaGwBkc5/giphy.gif" width="25%" height="25%" align="right">
 
-Hello Devs 👋<br><br>I am Wahyu Komarudin Hidayah. I'm a stand-alone developer who's fun to have an experimental projects for development and sharing.<br><br>✅ I’m currently working freelance ✨Frontend Web Developer✨.<br>✅ I’m currently learning about Python,Javascript, and latest framework mostly people used<br>✅ I’m looking to collaborate on an open-source project based on fun and knowledge-sharing<br>✅ I’m looking for help from people who has best experience in using Javascript programming<br>✅ Ask me about life goals, Technology development, and books!<br>📧 Email: wahyukh069@gmail.com
+Hello Devs 👋<br><br>I'm Wahyu Komarudin Hidayah. I'm a stand-alone developer who's fun to have experimental projects for development and sharing.<br><br>✅ I’m currently working freelance ✨Frontend Web Developer✨.<br>✅ I’m currently learning about Python, Javascript, and the latest frameworks most people used<br>✅ I’m looking for help from people who have the best experience in using Javascript programming<br>✅ I’m looking for help from people who has best experience in using Javascript programming<br>✅ Ask me about life goals, Technology development, and books!<br>📧 Email: wahyukh069@gmail.com
 
 </br>
 
