@@ -34,11 +34,12 @@ Hello Devs 👋<br><br>I'm Wahyu Komarudin Hidayah. I'm a stand-alone developer 
   <img width="400" height="230" src="https://github.com/wahyukmr/Image-GetWeb/blob/main/Black%20and%20Green%20Snake%20Halloween%20Sale%20Laptop%20Mockup%20Facebook%20Post%20.png" />
   <img width="400" height="230" src="https://github.com/wahyukmr/image-xirafood/blob/main/xirafood.png" />
   <br />
- <a href="https://github.com/wahyukmr/GetWeb-WebApp">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=wahyukmr&repo=GetWeb-WebApp&theme=tokyonight" />
+
+ <a href="https://github.com/wahyukmr/GetWeb-WebApp" width="400" height="150">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=wahyukmr&repo=GetWeb-WebApp&theme=tokyonight" />
  </a>
- <a href="https://github.com/wahyukmr/xirafood">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=wahyukmr&repo=xirafood&theme=tokyonight" />
+ <a href="https://github.com/wahyukmr/xirafood" width="400" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahyukmr&repo=xirafood&theme=tokyonight" />
  </a>
 </p>
 
