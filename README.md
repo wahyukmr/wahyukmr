@@ -28,7 +28,7 @@ Hello Devs 👋<br><br>I'm Wahyu Komarudin Hidayah. I'm a stand-alone developer 
 
 </br>
 
-<h2 align="center">💻 My favorite projects:</h2>
+<h2 align="center">💻 My projects:</h2>
 <br />
 <p align="center">
   <img width="400" height="230" src="https://github.com/wahyukmr/Image-GetWeb/blob/main/Black%20and%20Green%20Snake%20Halloween%20Sale%20Laptop%20Mockup%20Facebook%20Post%20.png" />
