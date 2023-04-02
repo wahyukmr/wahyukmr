@@ -32,16 +32,16 @@
 
 </br>
 
-<table>
-    <tr>
+<table align="center">
+    <tr >
         <h2 align="center">My favorite projects 💻</h2>
-        <td valign="top" width="80%" align="center">
+        <td width="450" align="center">
             <a href="https://github.com/wahyukmr/xirafood">
                 <img width="400" height="230" src="https://github.com/wahyukmr/wahyukmr/blob/main/asset/thumbnail/xirafood.png" />
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahyukmr&repo=xirafood&theme=tokyonight" />
             </a>
         </td>
-        <td valign="top" align="center">
+        <td width="450" align="center">
             <a href="https://github.com/wahyukmr/GetWeb-WebApp">
                 <img width="400" height="230" src="https://github.com/wahyukmr/wahyukmr/blob/main/asset/thumbnail/getweb.png" />
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahyukmr&repo=GetWeb-WebApp&theme=tokyonight" />
