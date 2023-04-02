@@ -65,6 +65,8 @@
 ## 📊 GitHub Stats:
 
 <br/>
+
+<img width="400" height="230" src="https://github-readme-stats.vercel.app/api?username=wahyukmr&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false" /><img width="400" height="230" src="https://github-readme-streak-stats.herokuapp.com/?user=wahyukmr&theme=shades-of-purple&hide_border=false" />
  
 ![](https://github-readme-stats.vercel.app/api?username=wahyukmr&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wahyukmr&theme=shades-of-purple&hide_border=false)
