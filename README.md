@@ -35,7 +35,7 @@
 <table>
     <tr>
         <h2 align="center">My favorite projects 💻</h2>
-        <td valign="top" align="center">
+        <td valign="top" width="80%" align="center">
             <a href="https://github.com/wahyukmr/xirafood">
                 <img width="400" height="230" src="https://github.com/wahyukmr/wahyukmr/blob/main/asset/thumbnail/xirafood.png" />
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahyukmr&repo=xirafood&theme=tokyonight" />
