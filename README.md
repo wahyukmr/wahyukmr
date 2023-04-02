@@ -57,8 +57,9 @@
 <div align="center">
     
 ![](https://github-readme-stats.vercel.app/api?username=wahyukmr&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=wahyukmr&theme=shades-of-purple&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyukmr&layout=compact&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=wahyukmr&theme=shades-of-purple&hide_border=false)
+
     
 </div>
 
