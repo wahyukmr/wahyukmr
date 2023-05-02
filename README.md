@@ -32,18 +32,18 @@
 
 </br>
 
-<table>
+<table >
     <tr>
-        <h2 align="center">My favorite projects 💻</h2>
-        <td valign="top" width="50%" align="center">
+        <h2 align="center" >My favorite projects 💻</h2>
+        <td width="50%" align="center" >
             <a href="https://github.com/wahyukmr/xirafood">
-                <img width="400" height="230" src="https://github.com/wahyukmr/image-xirafood/blob/main/xirafood.png" />
+                <img width="400" height="230" src="https://github.com/wahyukmr/wahyukmr/blob/main/asset/thumbnail/xirafood.png" />
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahyukmr&repo=xirafood&theme=tokyonight" />
             </a>
         </td>
-        <td valign="top" width="50%" align="center">
+        <td width="50%" align="center">
             <a href="https://github.com/wahyukmr/GetWeb-WebApp">
-                <img width="400" height="230" src="https://github.com/wahyukmr/Image-GetWeb/blob/main/Black%20and%20Green%20Snake%20Halloween%20Sale%20Laptop%20Mockup%20Facebook%20Post%20.png" />
+                <img width="400" height="230" src="https://github.com/wahyukmr/wahyukmr/blob/main/asset/thumbnail/getweb.png" />
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahyukmr&repo=GetWeb-WebApp&theme=tokyonight" />
             </a>
         </td>
