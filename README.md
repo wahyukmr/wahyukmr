@@ -35,7 +35,7 @@
 </br>
 
 <table align="center" >
-    <tr>
+    <tr align="center">
         <h2 align="center" >💻 My favorite projects</h2>
         <td>
             <a href="https://github.com/wahyukmr/xirafood">
@@ -44,7 +44,7 @@
             </a>
         </td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>
             <a href="https://github.com/wahyukmr/GetWeb-WebApp">
                 <img width="400" height="230" src="./asset/thumbnail/getweb.png" />
