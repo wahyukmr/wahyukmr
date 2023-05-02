@@ -58,7 +58,7 @@
 
 <table align="center" >
     <tr align="center">
-        <h2 align="center" >Favorite projects 📌</h2>
+        <h2 align="center" >💖 Favorite projects</h2>
         <td>
             <a href="https://github.com/wahyukmr/xirafood">
                 <img width="400" height="230" src="./asset/thumbnail/xirafood.png" />
@@ -80,14 +80,14 @@
 
 ###
 
-<h2 align="center">Activities 📒</h2>
+<h2 align="center">📒 Activities</h2>
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=wahyukmr&theme=cobalt" alt="Layout with last medium posts"  />
 </div>
 
 ###
 
-<h2 align="left">Stats 📈</h2>
+<h2 align="left">📈 Stats</h2>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=wahyukmr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wahyukmr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
@@ -95,6 +95,8 @@
 </div>
 
 ###
+
+</br>
   
 <div align="center" >
     
