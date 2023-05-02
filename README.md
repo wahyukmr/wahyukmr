@@ -1,5 +1,5 @@
 <h1 align= "center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Serif&size=30&duration=4000&pause=1000&color=71B7FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Wahyu;Frontend+Development;Always+Learning+all+the+Time!!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Serif&size=30&duration=4000&pause=1000&color=71B7FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Wahyu;Frontend+Developer;Always+Learning+all+the+Time!!" alt="Typing SVG" /></a>
 </h1>
 
 <div align="center" >
@@ -53,14 +53,13 @@
 <br />
 
 ## 📊 GitHub Stats:
- 
+
 <div align="center">
     
 ![](https://github-readme-stats.vercel.app/api?username=wahyukmr&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyukmr&layout=compact&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wahyukmr&theme=shades-of-purple&hide_border=false)
 
-    
 </div>
 
 </br>
