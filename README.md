@@ -32,35 +32,39 @@
 
 </br>
 
-<div style="overflow-x:auto;">
-    <table>
+</br>
+
+<table align="center" >
     <tr>
-        <h2 align="center" >My favorite projects 💻</h2>
-        <td  align="center" >
+        <h2 align="center" >💻 My favorite projects</h2>
+        <td>
             <a href="https://github.com/wahyukmr/xirafood">
-                <img width="400" height="230" src="https://github.com/wahyukmr/wahyukmr/blob/main/asset/thumbnail/xirafood.png" />
+                <img width="400" height="230" src="./asset/thumbnail/xirafood.png" />
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahyukmr&repo=xirafood&theme=tokyonight" />
             </a>
         </td>
-        <td  align="center">
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/wahyukmr/GetWeb-WebApp">
-                <img width="400" height="230" src="https://github.com/wahyukmr/wahyukmr/blob/main/asset/thumbnail/getweb.png" />
+                <img width="400" height="230" src="./asset/thumbnail/getweb.png" />
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahyukmr&repo=GetWeb-WebApp&theme=tokyonight" />
             </a>
         </td>
     </tr>
 </table>
-</div>
     
 <br />
 
-## 📊 GitHub Stats:
-
 <div align="center">
+
+<h2>📊 GitHub Stats:</h2>
+    
+![](https://github-readme-streak-stats.herokuapp.com/?user=wahyukmr&theme=shades-of-purple&hide_border=false)
     
 ![](https://github-readme-stats.vercel.app/api?username=wahyukmr&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)
+    
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyukmr&layout=compact&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=wahyukmr&theme=shades-of-purple&hide_border=false)
 
 </div>
 
