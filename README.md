@@ -32,16 +32,17 @@
 
 </br>
 
-<table >
+<div style="overflow-x:auto;">
+    <table>
     <tr>
         <h2 align="center" >My favorite projects 💻</h2>
-        <td width="50%" align="center" >
+        <td  align="center" >
             <a href="https://github.com/wahyukmr/xirafood">
                 <img width="400" height="230" src="https://github.com/wahyukmr/wahyukmr/blob/main/asset/thumbnail/xirafood.png" />
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahyukmr&repo=xirafood&theme=tokyonight" />
             </a>
         </td>
-        <td width="50%" align="center">
+        <td  align="center">
             <a href="https://github.com/wahyukmr/GetWeb-WebApp">
                 <img width="400" height="230" src="https://github.com/wahyukmr/wahyukmr/blob/main/asset/thumbnail/getweb.png" />
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahyukmr&repo=GetWeb-WebApp&theme=tokyonight" />
@@ -49,6 +50,7 @@
         </td>
     </tr>
 </table>
+</div>
     
 <br />
 
