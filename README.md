@@ -99,7 +99,7 @@
         <td>
             <a href="https://github.com/wahyukmr/xirafood">
                 <img width="400" height="230" src="./asset/thumbnail/xirafood.png" />
-                <img src="https://github-readme-stats-liart-omega.vercel.app/api/pin/?username=wahyukmr&repo=xirafood&theme=tokyonight" />
+                <img src="https://github-readme-stats-rho-one-97.vercel.app/api/pin/?username=wahyukmr&repo=xirafood&theme=tokyonight" />
             </a>
         </td>
     </tr>
@@ -107,7 +107,7 @@
         <td>
             <a href="https://github.com/wahyukmr/GetWeb-WebApp">
                 <img width="400" height="230" src="./asset/thumbnail/getweb.png" />
-                <img src="https://github-readme-stats-liart-omega.vercel.app/api/pin/?username=wahyukmr&repo=GetWeb-WebApp&theme=tokyonight" />
+                <img src="https://github-readme-stats-rho-one-97.vercel.app/api/pin/?username=wahyukmr&repo=GetWeb-WebApp&theme=tokyonight" />
             </a>
         </td>
     </tr>
