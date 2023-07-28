@@ -93,24 +93,29 @@
 
 </br>
 
-<table align="center" >
-    <tr align="center">
-        <h2 align="center" >💖 Favorite projects</h2>
-        <td>
-            <a href="https://github.com/wahyukmr/xirafood">
-                <img width="400" height="230" src="./asset/thumbnail/xirafood.png" />
-                <img src="https://github-readme-stats-rho-one-97.vercel.app/api/pin/?username=wahyukmr&repo=xirafood&theme=tokyonight" />
-            </a>
-        </td>
-    </tr>
-    <tr align="center">
-        <td>
-            <a href="https://github.com/wahyukmr/GetWeb-WebApp">
-                <img width="400" height="230" src="./asset/thumbnail/getweb.png" />
-                <img src="https://github-readme-stats-rho-one-97.vercel.app/api/pin/?username=wahyukmr&repo=GetWeb-WebApp&theme=tokyonight" />
-            </a>
-        </td>
-    </tr>
+<h2 align="center">💖 Favorite projects</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/wahyukmr/xirafood">
+        <img width="100%" src="./asset/thumbnail/xirafood.png" alt="Xirafood Repository" />
+      </a>
+      <br>
+      <a href="https://github.com/wahyukmr/xirafood">
+        <img width="100%" src="https://github-readme-stats-rho-one-97.vercel.app/api/pin/?username=wahyukmr&repo=xirafood&theme=tokyonight&show_owner=true" alt="Xirafood GitHub Stats" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/wahyukmr/GetWeb-WebApp">
+        <img width="100%" src="./asset/thumbnail/getweb.png" alt="GetWeb-WebApp Repository" />
+      </a>
+      <br>
+      <a href="https://github.com/wahyukmr/GetWeb-WebApp">
+        <img width="100%" src="https://github-readme-stats-rho-one-97.vercel.app/api/pin/?username=wahyukmr&repo=GetWeb-WebApp&theme=tokyonight&show_owner=true" alt="GetWeb-WebApp GitHub Stats" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 </br>
@@ -125,7 +130,7 @@
 ###
 
 <h2 align="left">📈 Stats</h2>
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wahyukmr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wahyukmr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=wahyukmr&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
