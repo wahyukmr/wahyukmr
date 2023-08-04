@@ -103,7 +103,7 @@
       </a>
       <br>
       <a href="https://github.com/wahyukmr/xirafood">
-        <img width="100%" src="https://github-readme-stats-rho-one-97.vercel.app/api/pin/?username=wahyukmr&repo=xirafood&theme=tokyonight&show_owner=true" alt="Xirafood GitHub Stats" />
+        <img width="100%" src="https://github-readme-stats-rho-one-97.vercel.app/api/pin/?username=wahyukmr&repo=xirafood&theme=tokyonight&show_owner=true&hide_border=true" alt="Xirafood GitHub Stats" />
       </a>
     </td>
     <td width="50%">
@@ -112,7 +112,7 @@
       </a>
       <br>
       <a href="https://github.com/wahyukmr/GetWeb-WebApp">
-        <img width="100%" src="https://github-readme-stats-rho-one-97.vercel.app/api/pin/?username=wahyukmr&repo=GetWeb-WebApp&theme=tokyonight&show_owner=true" alt="GetWeb-WebApp GitHub Stats" />
+        <img width="100%" src="https://github-readme-stats-rho-one-97.vercel.app/api/pin/?username=wahyukmr&repo=GetWeb-WebApp&theme=tokyonight&show_owner=true&hide_border=true" alt="GetWeb-WebApp GitHub Stats" />
       </a>
     </td>
   </tr>
@@ -131,9 +131,9 @@
 
 <h2 align="left">📈 Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahyukmr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wahyukmr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=wahyukmr&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=wahyukmr&show_icons=true&theme=tokyonight&rank_icon=percentile&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wahyukmr&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=wahyukmr&mode=daily&theme=tokyonight&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
