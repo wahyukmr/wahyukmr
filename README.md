@@ -24,7 +24,6 @@
 - :raising_hand: I'm an Expert in **Frontend Development**.
 - 🏆 Currently learning about Python and the latest frameworks most people used.
 - 🏆 I’m looking for help from people who have the best experience in using Javascript programming.
-- :ghost: Ask me about life goals, Technology development, and books!
 - 📧 Email: wahyukmrsm@gmail.com
 </p>
 
