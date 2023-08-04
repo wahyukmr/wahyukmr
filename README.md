@@ -21,11 +21,11 @@
 <p>
     I'm Wahyu Komarudin Hidayah. I have a lot of hands-on experience in Javascript and have worked on many complex projects. I'm a stand-alone developer who finds it fun to have experimental projects for development and sharing.
     
-- :raising_hand: I'm an Expert in **Frontend Development** for more than 1 year.
-- 🏆 Currently learning about Python, Javascript, and the latest frameworks most people used.
+- :raising_hand: I'm an Expert in **Frontend Development**.
+- 🏆 Currently learning about Python and the latest frameworks most people used.
 - 🏆 I’m looking for help from people who have the best experience in using Javascript programming.
 - :ghost: Ask me about life goals, Technology development, and books!
-- 📧 Email: wahyukh069@gmail.com
+- 📧 Email: wahyukmrsm@gmail.com
 </p>
 
 </br>
