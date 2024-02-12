@@ -118,7 +118,7 @@
 
 ###
 
-<h2 align="center">📒 Activities</h2>
+<h2 align="center">📒 Articles</h2>
 <div align="center">
   <a href="https://medium.com/@wahyukmr">
     <img src="https://github-readme-medium.vercel.app/?username=wahyukmr&limit=2&bg=71B7FF&text=ff0000" alt="Layout with last medium posts"  />
