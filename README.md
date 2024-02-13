@@ -50,6 +50,9 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg' height="40" width="52" alt="tailwindcss logo">
     </a>
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg' height="40" width="52" alt="getbootstrap logo">
+    </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
     </a>
