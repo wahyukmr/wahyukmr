@@ -130,15 +130,6 @@
 
 ###
 
-<h2 align="center">📒 Articles</h2>
-<div align="center">
-  <a href="https://medium.com/@wahyukmr">
-    <img src="https://github-readme-medium.vercel.app/?username=wahyukmr&limit=2&bg=71B7FF&text=ff0000" alt="Layout with last medium posts"  />
-  </a>
-</div>
-
-###
-
 <h2 align="left">📈 Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wahyukmr&show_icons=true&theme=tokyonight&rank_icon=percentile&order=1" height="150" alt="stats graph"  />
