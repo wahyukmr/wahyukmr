@@ -24,7 +24,6 @@
 - :raising_hand: I'm an Expert in **Frontend Development**.
 - 🏆 Currently learning about Python and the latest frameworks most people used.
 - 🏆 I’m looking for help from people who have the best experience in using Javascript programming.
-- 📧 Email: wahyukmrsm@gmail.com
 </p>
 
 </br>
@@ -55,6 +54,9 @@
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+    </a>
+    <a href="https://reactnavigation.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnavigation/reactnavigation-original.svg" height="40" width="52" alt="react logo"  />
     </a>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
@@ -97,7 +99,7 @@
     </a>
 </div>
 
-###
+<!-- ###
 
 </br>
 
@@ -135,7 +137,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wahyukmr&show_icons=true&theme=tokyonight&rank_icon=percentile&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wahyukmr&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=wahyukmr&mode=daily&theme=tokyonight&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+</div> -->
 
 ###
 
